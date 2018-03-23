@@ -1,0 +1,11 @@
+.background    { background-image: url("https://patrickleite.files.wordpress.com/2008/03/background-disney.jpg");
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: #ffffff; }
+.wall          { background: rgb(153, 255, 102); }
+.floater       {background: rgb(255, 102, 255);}
+
+.game {
+  position: relative;
+}
